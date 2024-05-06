@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient( 103.3deg,  rgba(252,225,208,1) 30%, rgba(255,173,214,1) 55.7%, rgba(162,186,245,1) 81.8% );
+}
+
+.base{
+    display: flex;
+    justify-content: center;
+    align-items: column;
+    background-color: black;
+    width: 35px;
+    padding: 125px;
+    padding-top: -80px;
+    border-radius: 40px;
+    margin-left: 38%;
+    margin-top: 10%; 
+    
+}
+
+.design{
+    display: grid;
+    justify-content: center;
+    
+
+   
+}
+
+.p{
+    margin-left: 70px;
+    padding: 5px;
+    border-radius: 15px;
+    width: 130px;
+  
+}
+
+.style{
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.inicio{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: larger;
+    font-style: Arial;
+    margin-bottom: 10%;
+    
+}
+
+#email{
+    padding: 8px;
+    border-radius: 15px;
+}
+
+#password{
+    padding: 8px;
+    border-radius: 15px;
+}
